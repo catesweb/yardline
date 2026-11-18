@@ -1,8 +1,5 @@
 # Yardline
 
-Field service software for CATESWEB service-business clients. Based on [Crewtavo](https://github.com/jviars/crewtavo) (AGPL-3.0).
+Rebranded fork of Crewtavo — service-business ops software from [CATESWEB](https://catesweb.com).
 
-Full source upload is in progress from the CATESWEB agent workspace.
-
-- Offering: https://catesweb.com/yardline
-- Upstream: https://github.com/jviars/crewtavo
+Full source upload in progress via MCP.
